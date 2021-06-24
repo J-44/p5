@@ -1,0 +1,10 @@
+#cam,#shot{
+    height:400px;
+    width:400px;
+    box-shadow: 30px 30px 30px 30px blue ;
+}
+.body_background{
+    background-image:url("272-2720888_bird-cartoon-drawing-clip-art-animated-picture-of-bird.png");
+  background-position:center;
+  background-size:cover;
+}
